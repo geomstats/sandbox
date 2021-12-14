@@ -4,7 +4,7 @@ Welcome to Geomstats' Sandbox!
 
 This repository is a place to share your code with the community of geometric statistics and (deep) learning. 
 
-Following users' requests, the Geomstats team might decide to integrate this code into the core codebase.
+Following users' requests, the Geomstats team might decide to integrate some of this code into the core codebase, later on.
 
 # Guidelines
 
